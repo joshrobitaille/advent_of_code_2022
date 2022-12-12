@@ -1,0 +1,20 @@
+column 1:
+(opponent)
+A = rock
+B = paper
+C = scissors
+
+column 2:
+(self)
+X = lose
+Y = draw
+Z = win
+
+points:
+rock = 1
+paper = 2
+scissors = 3
+
+lost = 0
+draw = 3
+win = 6
